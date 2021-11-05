@@ -12,7 +12,7 @@ Deadline-11/5/21
 To Do:
     1. Get everyone clone the repo
     2. Have jupyter notebook installed
-    3. 
+    3. Divide Roles 
 
 
 

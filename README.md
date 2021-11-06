@@ -4,7 +4,7 @@ This is our project.
 Goals:
 
 Deadline-11/5/21
-    1. Brainstrom questions
+    1. Brainstorm questions
     2. Import files correctly
     3. Avalibity times for scheduling
 

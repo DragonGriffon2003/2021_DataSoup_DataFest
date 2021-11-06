@@ -3,4 +3,4 @@ This is our project.
 
 
 Made by:
-Driffyn, Tea Maden, Supreme Toast, James, dmben
+Ishana Garuda, Lily Jade Chiang, Patrick Dewey, James DeLoach, Benjamin Zeitlin 

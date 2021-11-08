@@ -17,9 +17,7 @@ To Do:
   
   
   
-Work Logs:  
-  
-  
+Work Logs:
   
   
 Made by:  

@@ -2,7 +2,7 @@ ST,Region
 AK,None
 AL,Southeast
 AR,Southeast
-AZ,Mountain
+AZ,Southwest
 CA,Pacific
 CO,Mountain
 CT,Northeast
@@ -20,7 +20,7 @@ KY,Midwest
 LA,Southeast
 MA,Northeast
 MD,Mid-Atlantic
-ME,New England
+ME,Northeast
 MI,Midwest
 MN,Midwest
 MO,Midwest
@@ -38,7 +38,7 @@ OH,Midwest
 OK,Southwest
 OR,Pacific
 PA,Mid-Atlantic
-RI,New England
+RI,Northeast
 SC,Southeast
 SD,Midwest
 TN,Southeast

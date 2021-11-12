@@ -1,52 +1,52 @@
 ST,Region
 AK,None
-AL,East South Central
-AR,West South Central
+AL,Southeast
+AR,Southeast
 AZ,Mountain
 CA,Pacific
 CO,Mountain
-CT,New England
-DC,South Atlantic
-DE,South Atlantic
-FL,South Atlantic
-GA,South Atlantic
+CT,Northeast
+DC,Mid-Atlantic
+DE,Mid-Atlantic
+FL,Southeast
+GA,Southeast
 HI,None
-IA,West North Central
+IA,Midwest
 ID,Mountain
-IL,East North Central
-IN,East North Central
-KS,West North Central
-KY,East South Central
-LA,West South Central
-MA,New England
-MD,Middle Atlantic
+IL,Midwest
+IN,Midwest
+KS,Midwest
+KY,Midwest
+LA,Southeast
+MA,Northeast
+MD,Mid-Atlantic
 ME,New England
-MI,East North Central
-MN,West North Central
-MO,West North Central
-MS,East South Central
+MI,Midwest
+MN,Midwest
+MO,Midwest
+MS,Southeast
 MT,Mountain
-NC,South Atlantic
-ND,West North Central
-NE,West North Central
-NH,New England
-NJ,Middle Atlantic
-NM,Mountain
+NC,Southeast
+ND,Midwest
+NE,Midwest
+NH,Northeast
+NJ,Mid-Atlantic
+NM,Southwest
 NV,Mountain
-NY,Middle Atlantic
-OH,East North Central
-OK,West South Central
+NY,Mid-Atlantic
+OH,Midwest
+OK,Southwest
 OR,Pacific
-PA,Middle Atlantic
+PA,Mid-Atlantic
 RI,New England
-SC,South Atlantic
-SD,West North Central
-TN,East South Central
-TX,West South Central
+SC,Southeast
+SD,Midwest
+TN,Southeast
+TX,Southwest
 UT,Mountain
-VA,Middle Atlantic
-VT,New England
+VA,Mid-Atlantic
+VT,Northeast
 WA,Pacific
-WI,East North Central
-WV,South Atlantic
+WI,Midwest
+WV,Mid-Atlantic
 WY,Mountain
